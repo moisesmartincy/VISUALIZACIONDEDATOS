@@ -1,0 +1,57 @@
+Semana,Dia,Accesos,Evento_academico,Estudiantes_activos,Accesos_normalizados
+1,Lunes,214.0,Inicio de unidad,500,0.428
+1,Martes,194.0,Sin evento,500,0.388
+1,Miércoles,382.0,Sin evento,500,0.764
+1,Jueves,426.0,Sin evento,500,0.852
+1,Viernes,388.0,Entrega práctica,500,0.776
+1,Sábado,92.0,Sin evento,500,0.184
+1,Domingo,147.0,Sin evento,500,0.294
+2,Lunes,172.0,Sin evento,500,0.344
+2,Martes,181.0,Sin evento,500,0.362
+2,Miércoles,377.0,Sin evento,500,0.754
+2,Jueves,326.0,Sin evento,500,0.652
+2,Viernes,425.0,Cuestionario,500,0.85
+2,Sábado,107.0,Sin evento,500,0.214
+2,Domingo,42.0,Sin evento,500,0.084
+3,Lunes,131.0,Sin evento,500,0.262
+3,Martes,177.0,Sin evento,500,0.354
+3,Miércoles,299.0,Foro debate,500,0.598
+3,Jueves,365.0,Sin evento,500,0.73
+3,Viernes,163.0,Sin evento,500,0.326
+3,Sábado,57.0,Sin evento,500,0.114
+3,Domingo,143.0,Sin evento,500,0.286
+4,Lunes,190.0,Sin evento,500,0.38
+4,Martes,202.0,Sin evento,500,0.404
+4,Miércoles,278.0,Sin evento,500,0.556
+4,Jueves,322.0,Sin evento,500,0.644
+4,Viernes,355.0,Examen parcial,500,0.71
+4,Sábado,-50.0,Sin evento,500,
+4,Domingo,111.0,Sin evento,500,0.222
+5,Lunes,319.0,Inicio de unidad,500,0.638
+5,Martes,188.0,Sin evento,500,0.376
+5,Miércoles,319.0,Sin evento,500,0.638
+5,Jueves,442.0,Sin evento,500,0.884
+5,Viernes,199.0,Sin evento,500,0.398
+5,Sábado,68.0,Sin evento,500,0.136
+5,Domingo,,Sin evento,500,
+6,Lunes,151.0,Sin evento,500,0.302
+6,Martes,208.0,Sin evento,500,0.416
+6,Miércoles,252.0,Sin evento,500,0.504
+6,Jueves,283.0,Sin evento,500,0.566
+6,Viernes,359.0,Entrega práctica,500,0.718
+6,Sábado,122.0,Sin evento,500,0.244
+6,Domingo,105.0,Sin evento,500,0.21
+7,Lunes,195.0,Sin evento,500,0.39
+7,Martes,187.0,Sin evento,500,0.374
+7,Miércoles,276.0,Tutoría online,500,0.552
+7,Jueves,314.0,Sin evento,500,0.628
+7,Viernes,181.0,Sin evento,500,0.362
+7,Sábado,131.0,Sin evento,500,0.262
+7,Domingo,110.0,Sin evento,500,0.22
+8,Lunes,129.0,Sin evento,500,0.258
+8,Martes,212.0,Sin evento,500,0.424
+8,Miércoles,330.0,Sin evento,500,0.66
+8,Jueves,316.0,Sin evento,500,0.632
+8,Viernes,380.0,Examen final,500,0.76
+8,Sábado,130.0,Sin evento,500,0.26
+8,Domingo,127.0,Sin evento,500,0.254

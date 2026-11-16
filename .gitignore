@@ -1,0 +1,22 @@
+# Entornos virtuales de Python
+.venv/
+venv/
+ENV/
+env/
+**/.venv/
+**/venv/
+
+# Cache de Python y archivos compilados
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de depuración y crash dumps
+*.stackdump
+
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
